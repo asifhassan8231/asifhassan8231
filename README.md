@@ -32,4 +32,4 @@ Skills: REACT / JS / HTML / CSS
 
 ![Profile views](https://gpvc.arturio.dev/asifhassan8231)  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asifhassan8231&repo=bicycle-shop-mongodb-node-client)](https://github.com/asifhassan8231/bicycle-shop-mongodb-node-client)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asifhassan8231&repo=bicycle-shop-mongodb-node-client&theme=yeblu)](https://github.com/asifhassan8231/bicycle-shop-mongodb-node-client)
